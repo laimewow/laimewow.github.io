@@ -1,0 +1,1 @@
+.flash{animation:flash-bg .4s ease}@keyframes flash-bg{0%{background-color:#ff0}to{background-color:transparent}}
